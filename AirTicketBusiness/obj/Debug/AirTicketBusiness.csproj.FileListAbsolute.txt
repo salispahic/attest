@@ -1,0 +1,5 @@
+C:\Users\Owner\source\repos\AirRicket\AirTicketBusiness\obj\Debug\AirTicketBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\AirRicket\AirTicketBusiness\bin\Debug\AirTicketBusiness.dll
+C:\Users\Owner\source\repos\AirRicket\AirTicketBusiness\bin\Debug\AirTicketBusiness.pdb
+C:\Users\Owner\source\repos\AirRicket\AirTicketBusiness\obj\Debug\AirTicketBusiness.dll
+C:\Users\Owner\source\repos\AirRicket\AirTicketBusiness\obj\Debug\AirTicketBusiness.pdb
